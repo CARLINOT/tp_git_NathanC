@@ -9,7 +9,7 @@ git clone 'lien du github'
 - Etape 3: Verifiez si le dossier tp_git_pemba existe avec un 'ls'
 - Etape 4:
 ```sh
-cd tp_git_pemba
+cd tp_git_NathanC
 ```
 **Avec 'ls' verifier si les fichiers sont présents**
 
