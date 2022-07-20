@@ -13,7 +13,7 @@ cd tp_git_NathanC
 ```
 **Avec 'ls' verifier si les fichiers sont présents**
 
-# Comment faire pour exécuter les codes
+# Comment faire pour exécuter les codes ?
 - Etape 1: (Donnez les droits au script)
 ```sh
 chmod +x addTwoInt.py
